@@ -20,7 +20,7 @@ enum class Day(val number: Int) {
     TUE(3),
     WED(4),
     THU(5),
-    FRI(6),
+    FRI(6), 
     SAT(7);
 
     fun getDetailView() {
