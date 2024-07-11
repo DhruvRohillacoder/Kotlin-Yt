@@ -7,11 +7,6 @@ fun main() {
     println("Day number ${sun.number}")
     sun.getDetailView()
     val value = Day.SUN
-
-
-
-
-
 }
 
 enum class Day(val number: Int) {
